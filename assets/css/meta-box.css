@@ -1,0 +1,18 @@
+.admin_metabox_section label{
+	font-weight: bold;
+}
+.admin_metabox_section input {
+	display: block;
+    width: 60%;
+    padding:8px;
+    margin:8px 0 12px;
+    border-radius: 4px;
+}
+
+.admin_metabox_section textarea {
+	display: block;
+    width: 60%;
+    padding:8px;
+    margin:8px 0 12px;
+    border-radius: 4px;
+}
